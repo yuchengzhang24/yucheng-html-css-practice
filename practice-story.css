@@ -1,0 +1,73 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 1.2rem;
+  line-height: 1.7rem; 
+  margin-bottom: 12px;
+}
+
+article {
+max-width: 620px;
+margin-right: auto;
+margin-bottom: 30px;
+margin-left: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Ubuntu", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+  font-size: 2.75rem;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 18px 0;
+}
+
+h3 {
+  font-size: 1.75rem;
+  margin: 16px 0;
+}
+
+h4 {
+  font-size: 1.5rem;
+  margin: 14px 0;
+}
+
+.credit {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.byline {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.date  {
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 4px solid grey;
+  padding-left: 20px;
+  margin-left: 30px;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+#comment-notes {
+  background-color: #ccc;
+  padding: 12px;
+}
